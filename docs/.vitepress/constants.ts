@@ -27,7 +27,7 @@ export const meta = {
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: true,
-    nsfw: true
+    nsfw: false
   }
 }
 

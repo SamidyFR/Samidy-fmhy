@@ -1,8 +1,6 @@
-# -> ***Beginners Guide to Piracy*** <-
+
 
 ***
-**Table of Contents**
-[TOC2]
 
 ***
 
